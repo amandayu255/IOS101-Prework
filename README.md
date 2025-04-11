@@ -1,33 +1,55 @@
-# Prework - *Name of App Here*
+# Prework - *Intro Xcode*
 
-Submitted by: **Your Name Here**
+Submitted by: **Amanda Yu**
 
-**Name of your app** is an app that... [TODO] 
+**Intro Xcode** is an app that introduces who I am and changes the background color of the page. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+[Click here to watch the walkthrough on Imgur](https://imgur.com/a/68bKsur)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
+### Favorite Apps & Features
+
+**1. Spotify**  
+- Personalized playlists based on listening habits  
+- Seamless music streaming with offline access  
+- Clean and intuitive user interface  
+
+**2. Instagram**  
+- Story reactions and replies  
+- Explore page that recommends content  
+- Easy sharing with built-in photo filters  
+
+**3. Notion**  
+- Drag-and-drop blocks for custom pages  
+- To-do lists, calendars, and databases all in one  
+- Real-time collaboration  
+
+---
+
+### App Idea: *MoodTunes*
+
+MoodTunes is a music and journaling app that helps users track their emotions and discover music that matches or improves their mood. Each day, users can log how they’re feeling using a mood tracker and write a short journal entry. It’s designed to be a fun and reflective tool for emotional self-care through music.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had trouble finding where the buttons, labels, and files are. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Amanda Yu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
